@@ -17,6 +17,7 @@ public class BMH {
             }
         }
         else{
+          System.out.println("T.charAt(i)" + T.charAt(i));
           int l = L[T.charAt(i)];
           i = i + P.length() - Math.min(j, i + l);
           j = P.length() - 1;

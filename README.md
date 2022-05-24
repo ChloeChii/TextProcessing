@@ -46,3 +46,5 @@ See 'git help git' for an overview of the system.
 
 
 //System nano time
+javac project3/*.java
+java project3.Main [text string] [pattern string] [algorithm id]

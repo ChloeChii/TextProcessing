@@ -1,4 +1,4 @@
-package project3;
+package NumericalExactmatchAlgo;
 
 public class Bitap {
     public int match(String T, String P) {
